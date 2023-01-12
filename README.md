@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning of machine learning and api development
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white<!--" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
 **jamesmoraless/jamesmoraless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
