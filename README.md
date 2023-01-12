@@ -2,7 +2,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning of machine learning and api development
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
 
 <img src="[markdownmonstericon.png](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)"
      alt="Markdown Monster icon"
