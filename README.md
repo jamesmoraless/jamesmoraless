@@ -1,7 +1,11 @@
 ### Hi there, I'm James 👋
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning of machine learning and api development
-- ⚡ Fun fact: My dog is my bestfriend 
+- ⚡ Fun fact: I
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 <!--
 **jamesmoraless/jamesmoraless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
