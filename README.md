@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate software engineering student from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesmoraless&label=Profile%20views&color=0e75b6&style=flat" alt="jamesmoraless" /> </p>
 
