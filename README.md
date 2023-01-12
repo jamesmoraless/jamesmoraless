@@ -1,7 +1,7 @@
 ### Hi there, I'm James 👋
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning of machine learning and api development
-- ⚡ Fun fact: I
+
 
 <img src="markdownmonstericon.png"
      alt="Markdown Monster icon"
