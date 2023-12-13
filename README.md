@@ -1,11 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate software engineering student from Canada</h3>
+<h3 align="center">A passionate 4th year software engineering student from Canada</h3>
 <img align="right" alt="Coding" width="330" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesmoraless&label=Profile%20views&color=0e75b6&style=flat" alt="jamesmoraless" /> </p>
 
-- 📫 How to reach me **jmorales.hba2024@ivey.ca** | https://jamesmoraless.github.io/#home
+- 📫 How to reach me **jmorales.hba2025@ivey.ca** | https://jamesmoraless.github.io/#home
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
