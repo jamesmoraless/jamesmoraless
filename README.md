@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
+![Screenshot of my app](https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png)
+
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate 5th year software engineering student from Canada</h3>
 <img align="right" alt="Coding" width="330" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
