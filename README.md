@@ -1,4 +1,4 @@
-<a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Screenshot-2025-06-17-192613" width="300" align="center" border="0"></a>
+<a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Screenshot-2025-06-17-192613" width="1500" align="center" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate 5th year software engineering student from Canada</h3>
