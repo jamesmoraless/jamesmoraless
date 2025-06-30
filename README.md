@@ -1,7 +1,7 @@
 <a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Screenshot-2025-06-17-192613" width="1500" align="center" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate 5th year software engineering student from Canada</h3>
+<h3 align="center">A passionate recent grad pursuing a career in software engineering from Canada</h3>
 <img align="right" alt="Coding" width="330" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesmoraless&label=Profile%20views&color=0e75b6&style=flat" alt="jamesmoraless" /> </p>
