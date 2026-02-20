@@ -22,7 +22,7 @@ Currently a **Technical Product Manager at [Tempo Labs](https://www.tempolabs.ai
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Duration](https://www.duration.co/)** | 0→1 product build translating complex venture-debt workflows into scalable systems. Built internal AI agents to automate valuation analysis, underwriting workflows, and investment memos across millions in venture debt transactions. | Supabase, TypeScript, GitHub Workflows, React |
+| **[Duration](https://durationgrowth.com/)** | 0→1 product build translating complex venture-debt workflows into scalable systems. Built internal AI agents to automate valuation analysis, underwriting workflows, and investment memos across millions in venture debt transactions. | Supabase, TypeScript, GitHub Workflows, React |
 | **[Atlas Code](https://github.com/jamesmoraless)** | AI GitHub App that scans for tech debt and auto-opens PRs with fixes for security, DRY, and maintainability issues. Sub-agents analyze every push to `main`. | GitHub Apps, Supabase, TypeScript, AI Agents |
 | **Tempo Ops Platform** | Internal ops platform used daily across Tempo Labs to manage 30+ clients and 50+ engineers. Unifies capacity planning, client health tracking, and automated GitHub activity scoring and summarization. | Claude AI Agents, TypeScript, Supabase |
 | **[London Delays](https://github.com/jamesmoraless)** 🏆 | 1st Place, Western SE Capstone. Real-time ETL service streaming 1K+ weather/traffic events per min with TensorFlow delay forecasting piped into Grafana. | Docker, Express, MongoDB, Grafana, TensorFlow |
