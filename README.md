@@ -1,6 +1,6 @@
 <a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Banner" width="1500" align="center" border="0"></a>
 
-<h3 align="center">Software engineer and product builder, currently working on AI agents and internal tooling @ Tempo Labs (YC23)</h3>
+<h3 align="center">Software engineer and product builder, currently leading product @ Duration and building AI agents for venture debt workflows</h3>
 
 <p align="center">
   <a href="https://jamesmorales.ca">🌐 Portfolio</a> •
@@ -14,7 +14,7 @@
 
 I'm James, a software engineer and product builder who likes working at the intersection of **product thinking** and **hands-on engineering**. The kind of work where you're talking to users in the morning and pushing code in the afternoon.
 
-Right now, I'm a **Technical Product Manager at [Tempo Labs](https://www.tempolabs.ai/) (YC23)**, where I manage $700K+ in ARR, build internal tooling used across the company, and deploy multi-agent orchestration systems with Claude-powered sub-agents. Before that I was shipping AI-powered features at **Flowmatic**, building analytics tools used daily at **Zynga** (Harry Potter: Puzzles & Spells, Words With Friends 2), and plugging AI micro-services into CRMs at **Repwave**.
+Currently at **[Duration](https://www.duration.co/)**, leading product from 0→1 and building AI agents for venture debt workflows. Previously a **Technical Product Manager at [Tempo Labs](https://www.tempolabs.ai/) (YC23)**, where I managed $700K+ in ARR, built internal tooling used across the company, and deployed multi-agent orchestration systems with Claude-powered sub-agents. Before that I was shipping AI-powered features at **Flowmatic**, building analytics tools used daily at **Zynga** (Harry Potter: Puzzles & Spells, Words With Friends 2), and plugging AI micro-services into CRMs at **Repwave**.
 
 ---
 
@@ -22,7 +22,9 @@ Right now, I'm a **Technical Product Manager at [Tempo Labs](https://www.tempola
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Duration](https://www.duration.co/)** | Leading product from 0→1, translating complex venture-debt workflows into scalable systems. Building internal AI agents to automate valuation analysis, underwriting workflows, and investment memos across millions in venture debt transactions. | Supabase, TypeScript, GitHub Workflows, React |
 | **[Atlas Code](https://github.com/jamesmoraless)** | AI GitHub App that scans for tech debt and auto-opens PRs with fixes for security, DRY, and maintainability issues. Sub-agents analyze every push to `main`. | GitHub Apps, Supabase, TypeScript, AI Agents |
+| **Tempo Ops Platform** | Internal ops platform used daily across Tempo Labs to manage 30+ clients and 50+ engineers. Unifies capacity planning, client health tracking, and automated GitHub activity scoring and summarization. | Claude AI Agents, TypeScript, Supabase |
 | **[London Delays](https://github.com/jamesmoraless)** 🏆 | 1st Place, Western SE Capstone. Real-time ETL service streaming 1K+ weather/traffic events per min with TensorFlow delay forecasting piped into Grafana. | Docker, Express, MongoDB, Grafana, TensorFlow |
 | **[Stockr](https://stockr.info)** | AI-powered investment dashboard with an OpenAI advisory engine that benchmarks holdings against SEC filings and streams real-time market data. | Python, FastAPI, React, OpenAI API, Vercel |
 
