@@ -1,23 +1,53 @@
-<a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Screenshot-2025-06-17-192613" width="1500" align="center" border="0"></a>
+<a href="https://jamesmorales.ca"><img src="https://i.ibb.co/cSX0RNxH/Screenshot-2025-06-17-192613.png" alt="Banner" width="1500" align="center" border="0"></a>
 
-<h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate recent grad pursuing a career in software engineering from Canada</h3>
-<img align="right" alt="Coding" width="330" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
+<h3 align="center">Software engineer and product builder, currently working on AI agents and internal tooling @ Tempo Labs (YC23)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesmoraless&label=Profile%20views&color=0e75b6&style=flat" alt="jamesmoraless" /> </p>
-
-- 📫 How to reach me **jmorales.hba2025@ivey.ca** | https://jamesmorales.ca
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/james-morales-470a161b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james morales" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100025534603118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james morales" height="30" width="40" /></a>
-<a href="https://instagram.com/jamesmoraless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamesmoraless" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://jamesmorales.ca">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/james-morales-470a161b2/">💼 LinkedIn</a> •
+  <a href="mailto:jmorales.hba2025@ivey.ca">📬 Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+### 👋 About Me
 
+I'm James, a software engineer and product builder who likes working at the intersection of **product thinking** and **hands-on engineering**. The kind of work where you're talking to users in the morning and pushing code in the afternoon.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesmoraless&" alt="jamesmoraless" /></p>
+Right now, I'm a **Technical Product Manager at [Tempo Labs](https://www.tempolabs.ai/) (YC23)**, where I manage $700K+ in ARR, build internal tooling used across the company, and deploy multi-agent orchestration systems with Claude-powered sub-agents. Before that I was shipping AI-powered features at **Flowmatic**, building analytics tools used daily at **Zynga** (Harry Potter: Puzzles & Spells, Words With Friends 2), and plugging AI micro-services into CRMs at **Repwave**.
+
+---
+
+### 🔨 What I've Built Recently
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Atlas Code](https://github.com/jamesmoraless)** | AI GitHub App that scans for tech debt and auto-opens PRs with fixes for security, DRY, and maintainability issues. Sub-agents analyze every push to `main`. | GitHub Apps, Supabase, TypeScript, AI Agents |
+| **[London Delays](https://github.com/jamesmoraless)** 🏆 | 1st Place, Western SE Capstone. Real-time ETL service streaming 1K+ weather/traffic events per min with TensorFlow delay forecasting piped into Grafana. | Docker, Express, MongoDB, Grafana, TensorFlow |
+| **[Stockr](https://stockr.info)** | AI-powered investment dashboard with an OpenAI advisory engine that benchmarks holdings against SEC filings and streams real-time market data. | Python, FastAPI, React, OpenAI API, Vercel |
+
+---
+
+### 🧰 Tech I Work With
+
+**Languages:** Java, Python, JavaScript, TypeScript, Go, C#, SQL, NoSQL, HTML, CSS
+
+**Frameworks:** React, Next.js, Node.js, Flask, Django, FastAPI, SpringBoot
+
+**Infra & Tools:** Docker, Kubernetes, Terraform, AWS, GCP, Azure DevOps, GitHub Actions, Airflow, Jenkins
+
+**Data:** PostgreSQL, MongoDB, DynamoDB, Supabase, Databricks, Grafana, Splunk, Datadog
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesmoraless&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>If you're building something interesting, I'd love to hear about it → <a href="mailto:jmorales.hba2025@ivey.ca">jmorales.hba2025@ivey.ca</a></i>
+</p>
